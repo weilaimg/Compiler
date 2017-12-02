@@ -1,0 +1,14 @@
+Start_Symbol:E
+E,i:TH
+E,(:TH
+H,+:+TH
+H,):e
+H,#:e
+T,i:FY
+T,(:FY
+Y,+:e
+Y,*:*FY
+Y,):e
+Y,#:e
+F,i:i
+F,(:(E)

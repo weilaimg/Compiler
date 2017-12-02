@@ -1,0 +1,7 @@
+Start_Symbol:S
+S,a:aA
+S,d:d
+A,b:bAS
+A,a:e
+A,d:e
+A,#:e

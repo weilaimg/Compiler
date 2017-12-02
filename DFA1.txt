@@ -1,0 +1,10 @@
+Start_Symbol:A
+Final_Symbols:C
+Nonterminal_Symbols:A,B,C
+Terminal_Symbols:0,1
+A,0:B
+A,1:A
+B,0:B
+B,1:C
+C,0:B
+C,1:A
